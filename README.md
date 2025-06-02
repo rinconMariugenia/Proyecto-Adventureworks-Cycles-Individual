@@ -56,7 +56,7 @@ Mediante el uso de **Power BI**, se visualizan métricas críticas como:
 ## 🖼️ Vista Previa del Dashboard
 
 <p align="center">
-  <img src="assets/awc_dashboard_preview.png" alt="Dashboard AWC" width="500"/>
+  <img src="assets/Portada_AWC.png" alt="Dashboard AWC" width="500"/>
 </p>
 
 ---
